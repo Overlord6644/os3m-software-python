@@ -1,0 +1,6 @@
+setuptools
+PySimpleGUI
+hid
+numpy
+pythonnet==2.5.2
+matplotlib
