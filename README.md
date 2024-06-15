@@ -14,7 +14,7 @@ Currently this repo is in a state of "proof of concept" and the main implementat
 
 This project was built on VSCODE using the VENV envirronement for python.
 
-It was built of the 3.8 Python version.
+It was built on the 3.8 Python version.
 
 To run the different scripts you will need to:
 
